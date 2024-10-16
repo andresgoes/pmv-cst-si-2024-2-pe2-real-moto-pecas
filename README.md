@@ -1,24 +1,26 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/saSEw7Pb)
 # Título do Projeto
 
-`CURSO: Sistemas de Informação`
+`CURSO: Seguranca da Informação`
 
-`DISCIPLINA: Projeto - Projeto de Infraestrutura`
+`DISCIPLINA: Projeto - Real Moto Pecas`
 
-`Eixo: 5`
+`Eixo: 2`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+Guilherme Ferrari de Camillo – 844747
+Danilo Costa da Silva Figueredo – 855798
+Sérgio Rosa – 857111
+Yasmin Fernandes – 792720
+Lucas Fernandes – 850985
+Heberson de Oliveira – 845399
+José André Silva de Goes – 852104
 
 ## Orientador
 
-* Nome completo do professor 1
+Joao Carlos
 
 
