@@ -13,7 +13,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 Guilherme Ferrari de Camillo – 844747
 Danilo Costa da Silva Figueredo – 855798
-Sérgio Rosa – 857111
+Sérgio Sampaio Rosa – 857111
 Yasmin Fernandes – 792720
 Lucas Fernandes – 850985
 Heberson de Oliveira – 845399
