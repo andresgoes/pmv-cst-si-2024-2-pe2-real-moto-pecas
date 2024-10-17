@@ -21,6 +21,6 @@ José André Silva de Goes – 852104
 
 ## Orientador
 
-Joao Carlos
+Prof. Joao Carlos Oliveira Caetano
 
 
