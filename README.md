@@ -16,7 +16,7 @@ Danilo Costa da Silva Figueredo – 855798
 Sérgio Sampaio Rosa – 857111
 Yasmin Fernandes – 792720
 Lucas Fernandes – 850985
-Heberson de Oliveira – 845399
+Heberson Lira – 845399
 José André Silva de Goes – 852104
 
 ## Orientador
