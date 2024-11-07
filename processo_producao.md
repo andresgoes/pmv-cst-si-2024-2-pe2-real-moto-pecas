@@ -105,8 +105,7 @@ Com as informações levantadas e os processos modelados, foi desenvolvida uma p
 
 - **Responsável**: José André Silva de Goes.
 - **Atividades**:
-  - José André documentou o processo de produção do projeto no GitHub, detalhando cada etapa e as responsabilidades dos membros da equipe. Sua documentação incluiu as descrições dos processos, fluxogramas, e o gerenciamento de risco, consolidando todas as informações para fácil consulta no repositório.
-inicial e GitHub para versionamento do documento e armazenamento final.
+  - José André documentou o processo de produção do projeto no GitHub, detalhando cada etapa e as responsabilidades dos membros da equipe. Sua documentação incluiu as descrições dos processos, fluxogramas, e o gerenciamento de risco, para fácil consulta no repositório.
 
 ### 3.6 Referências e Citações
 
