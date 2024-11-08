@@ -95,7 +95,7 @@ Com as informações levantadas e os processos modelados, foi desenvolvida uma p
 - **Atividades**:
   - Heberson analisou a configuração atual da rede e sugeriu uma topologia com segmentação de rede e pontos de controle para monitoramento, reforçando a segurança dos dados e prevenindo acessos não autorizados.
 
-#### 3.4 Organização e Transferência para o GitHub (Yasmin Fernandes)
+#### 3.4 Organização e Transferência para o GitHub
 
 - **Responsável**: Yasmin Fernandes.
 - **Atividades**:
