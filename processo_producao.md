@@ -111,4 +111,4 @@ Com as informações levantadas e os processos modelados, foi desenvolvida uma p
 
 - **Responsável**: Danilo Costa da Silva Figueredo.
 - **Atividades**:
-  - Danilo organizou todas as referências, garantindo que as teorias e autores aplicados fossem devidamente citados.
+  - Danilo organizou todas as referências, garantindo que as teorias e autores aplicados fossem citados.
